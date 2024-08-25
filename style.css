@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('img/pizza.jpg');
+    background-image: url('pizza.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -28,7 +28,7 @@ body {
     padding: 20px 40px;
     font-size: 24px;
     font-weight: bold;
-    background-image: url('img/flag.jpg');
+    background-image: url('flag.jpg');
     background-size: cover;
     background-position: center;
     color: white !important;
